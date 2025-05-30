@@ -1,7 +1,7 @@
-📧 Spam Detection Project using NLP & Machine Learning
+# 📧 Spam Detection Project using NLP & Machine Learning
 A machine learning-based spam detection system built using Natural Language Processing (NLP) techniques to classify emails/messages as spam or ham (non-spam).
 
-🚀 Project Overview
+# 🚀 Project Overview
 This project applies NLP techniques and machine learning algorithms to detect spam messages from a dataset of emails or SMS messages. It involves:
 
 Text preprocessing
@@ -12,7 +12,7 @@ Model training and evaluation
 
 Performance comparison between algorithms
 
-📂 Dataset
+# 📂 Dataset
 Source: Public datasets / Gmail MBOX / Custom email exports
 
 Size: 55,000+ emails collected from 12 users
@@ -33,7 +33,7 @@ Body
 
 Label (0 = Ham, 1 = Spam)
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Programming Language: Python
 
 Libraries:
@@ -46,7 +46,7 @@ sklearn – ML models
 
 matplotlib, seaborn – Visualization
 
-🔎 NLP Preprocessing
+# 🔎 NLP Preprocessing
 Lowercasing
 
 Tokenization
@@ -67,7 +67,7 @@ Special character count
 
 Link detection
 
-🧠 Machine Learning Models Used
+# 🧠 Machine Learning Models Used
 Naive Bayes
 
 Logistic Regression
@@ -76,7 +76,7 @@ Random Forest
 
 Support Vector Machine (SVM)
 
-📊 Model Evaluation
+# 📊 Model Evaluation
 Metrics:
 
 Accuracy
